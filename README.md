@@ -1,7 +1,6 @@
 # 🔍 CodeLens AI
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" width="1200" alt="CodeLens AI Banner" />
+
   <p align="center">
     <strong>An AI-powered, step-by-step code execution tracer and visualizer.</strong>
   </p>
