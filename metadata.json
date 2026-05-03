@@ -1,0 +1,6 @@
+{
+  "name": "CodeLens AI",
+  "description": "An AI-powered step-by-step code execution visualizer that tracks variable states and memory usage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
