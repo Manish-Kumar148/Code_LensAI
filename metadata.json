@@ -1,0 +1,6 @@
+{
+  "name": "CodeLens AI",
+  "description": "CodeLens AI is a powerful, AI-driven code execution tracer and visualizer. It provides a step-by-step breakdown of your code, tracking variable states, stack frames, and heap objects in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
